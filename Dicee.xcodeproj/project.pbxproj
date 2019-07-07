@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		166A3FA822D1FC0F00299586 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 166A3FA722D1FC0F00299586 /* screenshot.png */; };
 		16979F3122D1C62B0069C801 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16979F3022D1C62B0069C801 /* AppDelegate.swift */; };
 		16979F3322D1C62B0069C801 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16979F3222D1C62B0069C801 /* ViewController.swift */; };
 		16979F3622D1C62B0069C801 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16979F3422D1C62B0069C801 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		166A3FA622D1FB6B00299586 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		166A3FA722D1FC0F00299586 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 		16979F2D22D1C62B0069C801 /* Dicee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dicee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16979F3022D1C62B0069C801 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		16979F3222D1C62B0069C801 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -42,6 +44,7 @@
 				166A3FA622D1FB6B00299586 /* README.md */,
 				16979F2F22D1C62B0069C801 /* Dicee */,
 				16979F2E22D1C62B0069C801 /* Products */,
+				166A3FA722D1FC0F00299586 /* screenshot.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -127,6 +130,7 @@
 				16979F3B22D1C62C0069C801 /* LaunchScreen.storyboard in Resources */,
 				16979F3822D1C62C0069C801 /* Assets.xcassets in Resources */,
 				16979F3622D1C62B0069C801 /* Main.storyboard in Resources */,
+				166A3FA822D1FC0F00299586 /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
